@@ -1,21 +1,24 @@
 # My Coding Notebook
 
 ## Table of Contents
-- [Day 1](#day-1)
-  - [Notes](#notes)
+- [Binary Notes](#binary-notes)
+  - [Binary Flippy-do](#Binary-Flippy-Do-number-system)
   - [Practice](#practice)
 - [Day 2](#day-2)
 -[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
-
-
-
-## 8/28/25
-Notes for the day
-Binary 1
+## Binary Notes
 Binary is a number system that uses 0 and 1
 
-Binary flippy-do/number system
+
+## Binary 1
+### Binary Flippy do/number system
+
+|Power:|2^7|2^6|2^5|2^4|2^3|2^2|2^1|2^0|solution|
+|-|-|-|-|-|-|-|-|-|-|
+|Value:|128|64|31|16|8|4|2|1
+|Binary: |1|0|1|0|0|0|1|1|
+
 Power:  2^7  2^6  2^5  2^4  2^3  2^2  2^1  2^0
 Value: 128   64  31   16    8    4    2    1
 Binary  1     0    1    0    0    0    1    1
