@@ -19,3 +19,4 @@ Add up the values to get the answer:
 00000100 = 4,
 ## Day 2
 Notes for day 2
+Meta data is the details about the things
