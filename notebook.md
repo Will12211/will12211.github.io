@@ -4,10 +4,10 @@
 - [Binary Notes](#binary-notes)
   - [Binary Conversion table](#binary-conversion-table)
   - [From Decimal Conversion Table](#convert-from-decimal)
--[Coding](coding)
+- [Coding](coding)
   - [Code Definitions](#code-definitions)
-  - [Pseudocode and Java Table] (Pseudocode-java-reference)
--[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+  - [Pseudocode Java Table](#pseudocode-java-reference)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 
 ## Binary Notes
@@ -101,6 +101,7 @@ Meta data is the details about the thing.
 
 
 
+## Pseudocode Java Reference  
 # Pseudocode Java Reference  
 
 | **Concept** | **CSP Pseudocode** | **Java** |
