@@ -7,6 +7,7 @@
 - [Coding](coding)
   - [Code Definitions](#code-definitions)
   - [Pseudocode Java Table](#pseudocode-java-reference)
+  - [Variables and dataTypes](#variables-data-types)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 
@@ -123,6 +124,29 @@ Meta data is the details about the thing.
 
 
 
+## Variables and dataTypes
+
+**Structure of a variable**
+```java
+// Datatype variableName = value;
+// = is the assignment operator, spoken as "gets"
+String name = "William";
+int grade = 10;
+double gpa = 3.5;
+char initial = 'W';
+boolean isOn = false;
+
+
+**Primitive dataType**
+Is a value that takes no more than 1 byte
+Examples: int, char, boolean, double
+
+**Pointer DataType**
+Object dataTypes, they're too big for 1 byte, so instead of storing the data, it stores a pointer, which points to the memory location of the data
+Examples: String, Arrylist, and objects created from a class
+
+**Semicolon ;**
+Is like a period. It's the end pf your code statement.
 
 
 ## Markdown Style Guide for Coding Notebooks
