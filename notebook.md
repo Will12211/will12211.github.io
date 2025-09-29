@@ -4,10 +4,11 @@
 - [Binary Notes](#binary-notes)
   - [Binary Conversion table](#binary-conversion-table)
   - [From Decimal Conversion Table](#convert-from-decimal)
-- [Coding](coding)
+- [Java/Pseudo Coding](coding)
   - [Code Definitions](#code-definitions)
   - [Pseudocode Java Table](#pseudocode-java-reference)
   - [Variables and dataTypes](#variables-data-types)
+  - [Conditionals] (#conditionals)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 
@@ -148,6 +149,34 @@ Examples: String, Arrylist, and objects created from a class
 **Semicolon ;**
 
 Is like a period. It's the end pf your code statement.
+
+
+##Conditionals
+if(condition)
+{
+	//do if condition is true
+} else if (nextCondition)
+{
+//do if condition is false but nextCondition is true
+} else
+{
+	//do if all prior conditions are false
+
+>greater than
+<less than
+≥ greater than or equal
+≤ less than or equal
+
+//% is modulus, it gets the remainder when dividing by the 2nd number
+
+&& and operator : true && true, true && false = false
+|| or operator: true || true = true || false = true
+!=not equal operator : true !=false = true, true ! = true = false
+! not operator: ! (true) = false, !(false) = true
+
+*/
+
+
 
 
 ## Markdown Style Guide for Coding Notebooks
