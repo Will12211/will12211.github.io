@@ -9,6 +9,7 @@
   - [Pseudocode Java Table](#pseudocode-java-reference)
   - [Variables and dataTypes](#variables-data-types)
   - [Conditionals] (#conditionals)
+  - [
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 
@@ -149,6 +150,49 @@ Examples: String, Arrylist, and objects created from a class
 **Semicolon ;**
 
 Is like a period. It's the end pf your code statement.
+
+
+
+### Functions/Procedures
+
+Base Structure:
+AccessModifierstatic* returnType funtionName(parameter(s) dataType parameter1, dataType parameter2)
+{
+//body of function, write code block here
+}
+Defining the parts of the function:
+AccessModifier:
+  public: can be accessed outside of the file/class
+  private: can only be accessed within the file/class
+
+Static: common,but optional , means that it can be used outside of a class
+
+ReturnType: the dataType to be returned by the function: int, data, string, Student, Car, etc.
+
+FunctionName: name of the function, should be descriptive of the purpose of the function
+
+Parameters: in  the paranthesis ( ), defines the data required tp change the behavior of the function
+
+Body: within curly brackets { } and contains the code that runs when the function is used
+
+//Example:
+```Java
+public static void greet(String name)
+{
+System.out.println("Hello," + name + "!");
+}
+
+Public double multiply(double x, double y)
+{
+	return x*y:
+}
+
+public static void sayHello()
+{
+System.out.println("Hello");
+}
+
+```
 
 
 ##Conditionals
